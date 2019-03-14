@@ -40,6 +40,6 @@ The pipeline performs the following steps:
 The pipeline has been described in:
 Jauhiainen, Heidi, Tommi Jauhiainen, Krister Lindén. 2019. Wanca in Korp: Text Corpora for Under-Resourced Uralic Languages.
 
-##MultiLi
+## MultiLi
 
 MultiLi will be added shortly!
