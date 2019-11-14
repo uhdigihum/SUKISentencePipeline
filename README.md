@@ -42,4 +42,4 @@ Jauhiainen, Heidi, Tommi Jauhiainen, Krister Lindén. 2019. Wanca in Korp: Text 
 
 ## MultiLi
 
-MultiLi can be found on page [https://github.com/tosaja/TunnistinPalveluMulti]
+MultiLi can be found on page https://github.com/tosaja/TunnistinPalveluMulti
